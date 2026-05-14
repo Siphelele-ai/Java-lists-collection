@@ -32,7 +32,7 @@ public class User {
         return course;
     }
     
-    //use toString for redable data format
+    //use toString for readable data format
     
     
 }
